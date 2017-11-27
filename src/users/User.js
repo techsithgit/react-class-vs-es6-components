@@ -7,7 +7,6 @@ const User = (props) => {
   } else {
     return <div>Invalid Entry</div>
   }
-
 }
 
 export default User;
